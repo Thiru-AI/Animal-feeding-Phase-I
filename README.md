@@ -6,7 +6,8 @@ To develop a animal feeding game-Phase-1 using unity.
 ## Algorithm:
 
 ## Player Controller
-### Step 1: Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
+### Step 1:
+Extract the package and in unity , asserts -> Import packages -> Custom packages and select the package. When we go to Assets folders we can see the course library which we extracted
 ### Step 2: If you want, drag a different material from Course Library > Materials onto the Ground object
 ### Step 3: Drag 1 Human, 3 Animals, and 1 Food object into the Hierarchy
 ### Step 4: Rename the character “Player”, then reposition the animals and food so you can see them
